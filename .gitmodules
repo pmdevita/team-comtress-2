@@ -1,0 +1,3 @@
+[submodule "thirdparty/vpc2"]
+	path = thirdparty/vpc2
+	url = https://github.com/quiverteam/vpc2
